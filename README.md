@@ -1,6 +1,6 @@
-# azure_get_cost
+# azure_get_cost_powershell
 
-- [azure_get_cost](#azure_get_cost)
+- [azure_get_cost_powershell](#azure_get_cost_powershell)
 - [準備](#準備)
 - [実行](#実行)
 - [出力例](#出力例)
